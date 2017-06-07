@@ -1,5 +1,4 @@
 # Ashleigh K. Arnaud
-## 409.549.0826
 ## [ashleigh.arnaud@gmail.com](mailto:ashleigh.arnaud@gmail.com)
 
 # This is my Portfolio website.
